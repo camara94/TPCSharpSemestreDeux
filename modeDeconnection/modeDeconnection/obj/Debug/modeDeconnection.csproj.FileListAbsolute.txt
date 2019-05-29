@@ -1,0 +1,9 @@
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\bin\Debug\modeDeconnection.exe.config
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\bin\Debug\modeDeconnection.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\bin\Debug\modeDeconnection.pdb
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\obj\Debug\modeDeconnection.csprojResolveAssemblyReference.cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\obj\Debug\modeDeconnection.Form1.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\obj\Debug\modeDeconnection.Properties.Resources.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\obj\Debug\modeDeconnection.csproj.GenerateResource.Cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\obj\Debug\modeDeconnection.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\modeDeconnection\modeDeconnection\obj\Debug\modeDeconnection.pdb
