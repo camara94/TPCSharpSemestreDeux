@@ -1,0 +1,22 @@
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\bin\Debug\ZmemCamaraLabyDamaro.exe.config
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\bin\Debug\ZmemCamaraLabyDamaro.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\bin\Debug\ZmemCamaraLabyDamaro.pdb
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.Form1.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.Properties.Resources.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.csproj.GenerateResource.Cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.pdb
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\ZmemCamaraLabyDamaro\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.csprojResolveAssemblyReference.cache
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\ZmemChrigui_Mohammed\ZmemCamaraLabyDamaro\bin\Debug\ZmemCamaraLabyDamaro.exe.config
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\ZmemChrigui_Mohammed\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.exe
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\ZmemChrigui_Mohammed\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.pdb
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\bin\Debug\ZmemCamaraLabyDamaro.exe.config
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\bin\Debug\ZmemCamaraLabyDamaro.exe
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\bin\Debug\ZmemCamaraLabyDamaro.pdb
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.csprojAssemblyReference.cache
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.Form1.resources
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.Properties.Resources.resources
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.csproj.GenerateResource.cache
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.csproj.CoreCompileInputs.cache
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.exe
+C:\Users\Camara\Desktop\csharp\ZmemChrigui_Camara\ZmemCamaraLabyDamaro\obj\Debug\ZmemCamaraLabyDamaro.pdb
