@@ -1,0 +1,9 @@
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\bin\Debug\deconnexion.exe.config
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\obj\Debug\deconnexion.csprojResolveAssemblyReference.cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\obj\Debug\deconnexion.Form1.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\obj\Debug\deconnexion.Properties.Resources.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\obj\Debug\deconnexion.csproj.GenerateResource.Cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\bin\Debug\deconnexion.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\bin\Debug\deconnexion.pdb
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\obj\Debug\deconnexion.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\deconnexion\deconnexion\obj\Debug\deconnexion.pdb
