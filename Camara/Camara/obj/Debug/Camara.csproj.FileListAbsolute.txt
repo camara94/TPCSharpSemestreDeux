@@ -1,0 +1,15 @@
+c:\users\cfi-2\documents\visual studio 2015\Projects\Camara\Camara\bin\Debug\Camara.dll
+c:\users\cfi-2\documents\visual studio 2015\Projects\Camara\Camara\bin\Debug\Camara.pdb
+c:\users\cfi-2\documents\visual studio 2015\Projects\Camara\Camara\obj\Debug\Camara.csprojResolveAssemblyReference.cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\Camara\Camara\obj\Debug\Camara.UserControl1.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\Camara\Camara\obj\Debug\Camara.csproj.GenerateResource.Cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\Camara\Camara\obj\Debug\Camara.dll
+c:\users\cfi-2\documents\visual studio 2015\Projects\Camara\Camara\obj\Debug\Camara.pdb
+C:\Users\Camara\Desktop\csharp\Camara\Camara\bin\Debug\Camara.dll
+C:\Users\Camara\Desktop\csharp\Camara\Camara\bin\Debug\Camara.pdb
+C:\Users\Camara\Desktop\csharp\Camara\Camara\obj\Debug\Camara.csprojAssemblyReference.cache
+C:\Users\Camara\Desktop\csharp\Camara\Camara\obj\Debug\Camara.UserControl1.resources
+C:\Users\Camara\Desktop\csharp\Camara\Camara\obj\Debug\Camara.csproj.GenerateResource.cache
+C:\Users\Camara\Desktop\csharp\Camara\Camara\obj\Debug\Camara.csproj.CoreCompileInputs.cache
+C:\Users\Camara\Desktop\csharp\Camara\Camara\obj\Debug\Camara.dll
+C:\Users\Camara\Desktop\csharp\Camara\Camara\obj\Debug\Camara.pdb
