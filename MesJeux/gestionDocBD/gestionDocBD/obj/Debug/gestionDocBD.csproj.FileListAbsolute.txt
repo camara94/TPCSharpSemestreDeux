@@ -1,0 +1,32 @@
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.exe.config
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.exe
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.pdb
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.Form1.resources
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.Properties.Resources.resources
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.exe
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.pdb
+C:\Users\Ali\source\repos\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.docBase.resources
+F:\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.exe.config
+F:\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.exe
+F:\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.pdb
+F:\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.exe
+F:\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.pdb
+F:\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.csprojResolveAssemblyReference.cache
+F:\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.docBase.resources
+F:\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.Form1.resources
+F:\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.Properties.Resources.resources
+F:\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.csproj.GenerateResource.Cache
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.exe.config
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.exe
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.pdb
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.exe
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\bin\Debug\gestionDocBD.pdb
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.csprojResolveAssemblyReference.cache
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.docBase.resources
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.Form1.resources
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.Properties.Resources.resources
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.csproj.GenerateResource.Cache
+C:\Users\CFI-2\Documents\Visual Studio 2015\Projects\gestionDocBD\gestionDocBD\obj\Debug\gestionDocBD.Form2.resources

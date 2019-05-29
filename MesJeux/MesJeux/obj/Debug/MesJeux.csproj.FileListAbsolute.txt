@@ -1,0 +1,37 @@
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\bin\Debug\MesJeux.exe.config
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\bin\Debug\MesJeux.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\bin\Debug\MesJeux.pdb
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.csprojResolveAssemblyReference.cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.Form1.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.FrmAuth.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.Properties.Resources.resources
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.csproj.GenerateResource.Cache
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.exe
+c:\users\cfi-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.pdb
+C:\Users\CFI-2\documents\visual studio 2015\Projects\MesJeux\MesJeux\obj\Debug\MesJeux.changePwd.resources
+C:\Users\CFI-2\Desktop\csharp\MesJeux\MesJeux\bin\Debug\MesJeux.exe.config
+C:\Users\CFI-2\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.exe
+C:\Users\CFI-2\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.pdb
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\bin\Debug\MesJeux.exe.config
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\bin\Debug\MesJeux.exe
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\bin\Debug\MesJeux.pdb
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.csprojAssemblyReference.cache
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.changePwd.resources
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.Form1.resources
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.FrmAuth.resources
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.Properties.Resources.resources
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.csproj.GenerateResource.cache
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.csproj.CoreCompileInputs.cache
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.exe
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.pdb
+C:\Users\Camara\Desktop\setupJeux\MesJeux.exe.config
+C:\Users\Camara\Desktop\setupJeux\MesJeux.exe.manifest
+C:\Users\Camara\Desktop\setupJeux\MesJeux.application
+C:\Users\Camara\Desktop\setupJeux\MesJeux.xml
+C:\Users\Camara\Desktop\setupJeux\MesJeux.exe
+C:\Users\Camara\Desktop\setupJeux\MesJeux.pdb
+C:\Users\Camara\Desktop\setupJeux\MesJeux.exe.CodeAnalysisLog.xml
+C:\Users\Camara\Desktop\setupJeux\MesJeux.exe.lastcodeanalysissucceeded
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.TrustInfo.xml
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.exe.manifest
+C:\Users\Camara\Desktop\csharp\MesJeux\MesJeux\obj\Debug\MesJeux.application
